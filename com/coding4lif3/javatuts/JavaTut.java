@@ -1,3 +1,5 @@
+package com.coding4lif3.javatuts;
+
 /**
  * JavaTut
  */
