@@ -96,3 +96,9 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+
+# Other gitignore files
+/java_tut.iml
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/vcs.xml
