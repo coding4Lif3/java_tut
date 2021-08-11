@@ -9,4 +9,8 @@ public class JavaTut {
 
     }
 
+    private String getString() {
+        return "mystring";
+    }
+
 }
